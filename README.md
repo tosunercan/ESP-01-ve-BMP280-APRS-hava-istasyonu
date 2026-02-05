@@ -212,7 +212,7 @@ Alternatifler:
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](blob/main/esp8266_aprs_v7/docs/images/main-page.png)
+![Ana Sayfa](https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/esp8266_aprs_v7/docs/images/main-page.png))
 
 ### WiFi Yapılandırma
 ![WiFi Setup](docs/images/wifi-setup.png)
