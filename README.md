@@ -73,8 +73,7 @@ GND         ──→ GND
 
 1. **Projeyi klonlayın**:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/esp01-aprs-weather.git
-   cd esp01-aprs-weather
+   git clone https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu.git
    ```
 
 2. **Arduino IDE'de açın**:
