@@ -212,7 +212,7 @@ Alternatifler:
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](docs/images/main-page.png)
+![Ana Sayfa](blob/main/esp8266_aprs_v7/docs/images/main-page.png)
 
 ### WiFi Yapılandırma
 ![WiFi Setup](docs/images/wifi-setup.png)
