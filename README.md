@@ -215,10 +215,13 @@ Alternatifler:
 ![Ana Sayfa](https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/esp8266_aprs_v7/docs/images/main-page.png))
 
 ### WiFi Yapılandırma
-![WiFi Setup](docs/images/wifi-setup.png)
+![WiFi Setup](https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/esp8266_aprs_v7/docs/images/wifi-setup.png)
 
 ### APRS Ayarları
-![APRS Config](docs/images/aprs-config.png)
+![APRS Config](https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/esp8266_aprs_v7/docs/images/aprs-config.png)
 
 ### Mesaj Gönder
-![Inbox](docs/images/outbox.png)
+![Outbox](https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/esp8266_aprs_v7/docs/images/outbox.png)
+
+### Gelen Mesajlar
+![Inbox](https://github.com/tosunercan/ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/esp8266_aprs_v7/docs/images//inbox.png)
