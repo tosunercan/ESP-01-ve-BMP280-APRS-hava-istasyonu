@@ -212,13 +212,16 @@ Alternatifler:
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](ESP-01-ve-BMP280-APRS-hava-istasyonu/blob/main/images/main-page.png)
+![Ana Sayfa](docs/images/main-page.png)
 
 ### WiFi Yapılandırma
 ![WiFi Setup](docs/images/wifi-setup.png)
 
 ### APRS Ayarları
 ![APRS Config](docs/images/aprs-config.png)
+
+### Mesaj Gönder
+![Inbox](docs/images/outbox.png)
 
 ### Gelen Mesajlar
 ![Inbox](docs/images/inbox.png)
